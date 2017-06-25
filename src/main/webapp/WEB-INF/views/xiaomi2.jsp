@@ -111,11 +111,10 @@
             </div>
             <div class="section-itmes sh-section-03">
                 <div class="sh-section-03-c mjfullpage-items">
-                    <div class="text-content"><h2 class="title-h2 webfont">Не получается выспаться?<br> Mi Band 2
-                        позаботится о Вашем сне!</h2>
-                        <p class="title-info">Приятные материалы и легкий вес позволяют носить<br> фитнес-браслет
-                            круглые сутки. Ночью он измеряет<br> продолжительность и качество сна. Утром разбудит<br>
-                            при помощи легкой вибрации.</p></div>
+                    <div class="text-content">
+                        <h2 class="title-h2 webfont"><spring:message code="fourth_slide.first.title"/></h2>
+                        <p class="title-info"><spring:message code="fourth_slide.first.description"/></p>
+                    </div>
                 </div>
             </div>
             <div class="section-itmes sh-section-03">
